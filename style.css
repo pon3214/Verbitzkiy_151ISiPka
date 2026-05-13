@@ -15,7 +15,7 @@
     min-height: 100vh; 
     display: flex;     
     flex-direction: column; 
-    background-image: url('/project/code/img/monochrome-view-red-square-world-heritage-day.jpg'); 
+    background-image: url('monochrome-view-red-square-world-heritage-day.jpg'); 
     background-repeat: no-repeat;
     background-position: center center; 
     background-attachment: fixed; 
